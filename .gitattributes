@@ -1,0 +1,4 @@
+# Unity serialization uses trailing spaces for empty values.
+*.meta whitespace=-blank-at-eol
+*.asset whitespace=-blank-at-eol
+*.unity whitespace=-blank-at-eol

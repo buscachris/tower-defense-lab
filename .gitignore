@@ -1,0 +1,29 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity-generated solution and user files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# IDE and OS files
+.idea/
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
+
+# Local diagnostics
+mono_crash.*
+*.stacktrace
