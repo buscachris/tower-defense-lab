@@ -1,6 +1,6 @@
 # Tower Defense Lab — Unity/C# Portfolio Prototype
 
-A separate portfolio project based on the tower-defense planning concepts in Casey Hardman’s *Game Programming with Unity and C#*, Chapter 26, “Tower Defense Design and Outline.”
+I built this Unity prototype to experiment with tower placement, pathfinding, and enemy waves. I used Chapter 26, “Tower Defense Design and Outline,” from Casey Hardman’s *Game Programming with Unity and C#* as my starting point.
 
 ## Current vertical slice
 
