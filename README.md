@@ -32,6 +32,10 @@ Select a tower with the UI or `B`, `A`, `C`, or `H`, then click a grid tile to p
 
 Planning concepts are informed by Casey Hardman, *Game Programming with Unity and C#*, Chapter 26, “Tower Defense Design and Outline” (2020), DOI: https://doi.org/10.1007/978-1-4842-5656-5_26. This project is an original portfolio adaptation and does not copy chapter code or assets.
 
+## License
+
+I license my original tower-defense scripts and scene setup under the [MIT License](LICENSE). The Unity editor and the packages listed in my [package manifest](Packages/manifest.json) carry their own terms.
+
 ## Verification status
 
 This source snapshot was checked for JSON validity, Unity asset/meta pairs and scene GUID references. Unity compilation, standalone builds and gameplay were not rerun during export preparation. Historical build results and remaining checks are recorded in [VERIFICATION.md](VERIFICATION.md).
